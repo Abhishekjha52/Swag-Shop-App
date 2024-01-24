@@ -15,7 +15,7 @@ Swag Shop is a simple e-commerce web application built with React, allowing user
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/swag-shop.git
+    git clone https://github.com/Abhishekjha52/swag-shop.git
     ```
 
 2. **Change into the project directory:**
